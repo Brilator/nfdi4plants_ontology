@@ -1,0 +1,429 @@
+AGRO:00000007	desuckering
+AGRO:00000027	thinning
+AGRO:00000360	experimental site
+AGRO:00000361	farmer field
+AGRO:00000362	research station field
+AGRO:00000363	greenhouse
+AGRO:00000364	governmental forest
+AGRO:00000365	private forest
+AGRO:00000566	pruning process
+AGRO:00002071	agricultural process
+BAO:0010026	protein profiling assay
+BAO:0010027	shotgun MS protein profiling assay
+BAO:0010028	SWATH MS protein profiling assay
+BAO:0010029	P100 protein profiling assay
+BAO:0010030	RPPA protein profiling assay
+BAO:0010049	Microwestern
+BAO:0010052	ELISA protein state assay
+BAO:0010070	Tandem Mass Tag (TMT) MS Protein Quantification
+BAO:0010071	Liquid Chromatography/Mass Spectroscopy (LC/MS) protein quantification
+BTO:0001899	stationary phase culture
+BTO:0001900	growth phase culture
+BTO:0001901	death phase culture
+BTO:0001902	lag phase culture
+BTO:0001903	logarithmic phase culture
+CHEBI:35209	label
+CHMO:0000995	mobile phase
+CHMO:0001485	derivatisation
+CHMO:0001549	sample drying
+CHMO:0001557	vacuum drying
+CHMO:0001583	liquid-solid extraction
+CHMO:0001584	normal-phase solid-phase extraction
+CHMO:0001585	reversed-phase solid-phase extraction
+CHMO:0001586	solid-phase micro-extraction
+CHMO:0001587	capillary micro-extraction
+CHMO:0001588	sol–gel capillary micro-extraction
+CHMO:0001589	headspace solid-phase micro-extraction
+CHMO:0001590	micro-extraction in a packed syringe
+CHMO:0001652	grinding
+CHMO:0002757	methoxyamination derivatisation
+CHMO:0002758	trimethylsilyl derivatisation
+CHMO:0002863	dispersive solid phase extraction
+CHMO:0002887	dispersive solid-phase microextraction
+DPBO:0000001	growth plot design
+DPBO:0000002	read alignment software
+DPBO:0000003	read alignment software version
+DPBO:0000004	read alignment software parameters
+DPBO:0000005	humidity day
+DPBO:0000006	humidity night
+DPBO:0000007	temperature day
+DPBO:0000008	temperature night
+DPBO:0000009	sample collection method
+DPBO:0000010	metabolism quenching method
+DPBO:0000011	sample storage
+DPBO:0000012	bio entity
+DPBO:0000013	biosource amount
+DPBO:0000014	extraction kit
+DPBO:0000015	library layout
+DPBO:0000016	library RNA amount
+DPBO:0000017	base-calling software
+DPBO:0000018	base-calling software version
+DPBO:0000019	base-calling software parameters
+DPBO:0000020	library strand
+DPBO:0000021	raw data file format
+DPBO:0000022	raw data file checksum
+DPBO:0000023	data filtering software
+DPBO:0000024	data filtering software version
+DPBO:0000025	data filtering software parameters
+DPBO:0000026	genome reference sequence
+DPBO:0000027	processed data file format
+DPBO:0000028	processed data file name
+DPBO:0000029	processed data file checksum
+DPBO:0000033	plant age
+DPBO:0000035	library strategy
+DPBO:0000036	library selection
+DPBO:0000040	next generation sequencing instrument model
+DPBO:0000041	growth day length
+DPBO:0000042	biological replicate
+DPBO:0000043	MS sample post-extraction
+DPBO:0000044	MS sample resuspension
+DPBO:0000045	MS sample type
+DPBO:0000046	chromatography instrument model
+DPBO:0000047	chromatography autosampler model
+DPBO:0000048	chromatography column model
+DPBO:0000049	chromatography guard column model
+DPBO:0000050	extraction buffer
+DPBO:0000051	extraction buffer volume
+DPBO:0000052	MS derivatization
+DPBO:0000053	chromatography column type
+DPBO:0000054	extraction method
+DPBO:0000056	library DNA amount
+DPBO:0000057	next generation sequencing platform
+DPBO:0000059	sequence assembly method
+DPBO:0000060	sequence assembly algorithm version
+DPBO:0000061	genome status
+DPBO:0000062	RNA quality check
+DPBO:0000063	BioProject accession number
+DPBO:0000064	sample type
+DPBO:0000068	cell line
+DPBO:0000069	cell type
+DPBO:0000072	plant disease stage
+DPBO:0000073	phenotype
+DPBO:0000074	geographic area
+DPBO:0000077	metabolite assignment file
+DPBO:0000078	BioSample accession number
+DPBO:0000081	chromatography gradient
+DPBO:0000082	rRNA depletion
+DPBO:0000083	relative centrifugal force
+DPBO:0000084	g-force
+DPBO:0000085	standard gravity
+DPBO:0000086	single-end
+DPBO:0002000	alias
+DPBO:0002001	study abstract
+DPBO:0002002	title
+DPBO:0002005	project name
+DPBO:0002006	sequencing method
+DPBO:0002007	investigation type
+DPBO:0002008	environment (feature)
+DPBO:0002009	environment (material)
+DPBO:0002010	plant-associated environmental package
+DPBO:0010000	ENA
+DPBO:0010002	BioSample
+DPBO:0010004	BioProject
+DPBO:0010005	GenBank
+DPBO:0010006	SRA
+DPBO:0010007	PGP
+DPBO:0010008	BIA
+DPBO:0010009	biosource material state
+DPBO:0010010	fresh material
+DPBO:0010011	dry material
+DPBO:0010012	internal standard
+DPBO:0010013	sample volume
+DPBO:0010014	chromatography injection volume
+DPBO:0010015	chromatography injection mode
+DPBO:1000003	RNA-seq
+DPBO:1000004	miRNA-seq
+DPBO:1000005	ncRNA-seq
+DPBO:1000006	RNA-seq (size fractionation)
+DPBO:1000007	RNA-seq (CAGE)
+DPBO:1000008	RNA-seq (RACE)
+DPBO:1000009	obsolete_ssRNA-seq
+DPBO:1000010	obsolete_ChIP-seq
+DPBO:1000011	obsolete_MNase-seq
+DPBO:1000012	obsolete_MBD-seq
+DPBO:1000013	obsolete_MRE-seq
+DPBO:1000014	obsolete_Bisulfite-seq
+DPBO:1000015	Bisulfite-seq (reduced representation)
+DPBO:1000016	obsolete_MeDIP-seq
+DPBO:1000017	DNase hypersensitivity
+DPBO:1000018	Tn-seq
+DPBO:1000019	obsolete_FAIRE-seq
+DPBO:1000020	SELEX
+DPBO:1000021	obsolete_RIP-seq
+DPBO:1000022	obsolete_ATAC-seq
+DPBO:1000023	obsolete_ChIA-PET
+DPBO:1000024	obsolete_Hi-C
+DPBO:1000025	OTHER
+DPBO:1000026	fastq
+DPBO:1000027	bam
+DPBO:1000028	Illumina_native_qseq
+DPBO:1000029	Illumina_native
+DPBO:1000030	SOLiD_native_csfasta
+DPBO:1000031	SOLiD_native_qual
+DPBO:1000032	sff
+DPBO:1000033	454_native_seq
+DPBO:1000034	454_native_qual
+DPBO:1000035	Helicos_native
+DPBO:1000036	srf
+DPBO:1000037	PacBio_HDF5
+DPBO:1000038	Illumina Genome Analyzer IIx
+DPBO:1000039	Illumina HiSeq 1000
+DPBO:1000040	Illumina HiSeq 1500
+DPBO:1000041	Illumina HiSeq 2000
+DPBO:1000042	Illumina HiSeq 2500
+DPBO:1000043	Illumina HiSeq 3000
+DPBO:1000044	Illumina HiSeq 4000
+DPBO:1000045	Illumina NextSeq 500
+DPBO:1000046	Illumina NextSeq 550
+DPBO:1000047	Illumina HiSeq X Ten
+DPBO:1000048	Illumina HiSeq X Five
+DPBO:1000049	Illumina NovaSeq 6000
+DPBO:1000050	Illumina MiSeq
+DPBO:1000051	Illumina HiScanSQ
+DPBO:1000052	Illumina MiniSeq
+DPBO:1000053	Illumina iSeq 100
+DPBO:1000054	BGISEQ-500
+DPBO:1000055	DNBSEQ-G400
+DPBO:1000056	DNBSEQ-T7
+DPBO:1000057	DNBSEQ-G50
+DPBO:1000058	Ion Torrent PGM
+DPBO:1000059	Ion Torrent Proton
+DPBO:1000060	Ion Torrent S5
+DPBO:1000061	Ion Torrent S5 XL
+DPBO:1000062	PacBio RS
+DPBO:1000063	PacBio RS II
+DPBO:1000064	Sequel
+DPBO:1000065	Sequel II
+DPBO:1000066	AB SOLiD System 2.0
+DPBO:1000067	AB SOLiD System 3.0
+DPBO:1000068	AB SOLiD 3 Plus System
+DPBO:1000069	AB SOLiD 4 System
+DPBO:1000070	AB SOLiD 4hq System
+DPBO:1000071	AB SOLiD PI System
+DPBO:1000072	AB 5500 Genetic Analyzer
+DPBO:1000073	AB 5500xl Genetic Analyzer
+DPBO:1000074	AB 5500xl-W Genetic Analysis System
+DPBO:1000075	454 GS
+DPBO:1000076	454 GS 20
+DPBO:1000077	454 GS FLX
+DPBO:1000078	454 GS FLX+
+DPBO:1000079	454 GS Junior
+DPBO:1000080	454 GS FLX Titanium
+DPBO:1000081	Complete Genomics
+DPBO:1000082	Helicos HeliScope
+DPBO:1000083	GridION
+DPBO:1000084	MinION
+DPBO:1000085	PromethION
+DPBO:1000086	obsolete_single
+DPBO:1000087	paired-end
+DPBO:1000088	total RNA
+DPBO:1000089	polyA RNA
+DPBO:1000090	cytoplasmic RNA
+DPBO:1000091	nuclear RNA
+DPBO:1000092	genomic DNA
+DPBO:1000093	protein
+DPBO:1000094	other
+DPBO:1000095	endpoint repository
+DPBO:1000096	GEO
+DPBO:1000097	MetaboLights
+DPBO:1000098	PRIDE
+DPBO:1000099	GEO_RNAseq
+DPBO:1000100	GEO_microarray
+DPBO:1000101	well
+DPBO:1000102	well Number
+DPBO:1000103	siRNA identifier
+DPBO:1000104	compound name
+DPBO:1000105	compound identifier
+DPBO:1000106	compound class
+DPBO:1000108	gene identifier
+DPBO:1000109	sense sequence
+DPBO:1000110	antisense sequence
+DPBO:1000111	control type
+DPBO:1000112	quality control
+DPBO:1000113	channel
+DPBO:1000114	screen technology type
+DPBO:1000116	library version
+DPBO:1000117	antibody
+DPBO:1000118	obsolete_cover slip
+DPBO:1000120	image file path
+DPBO:1000121	target compartment
+DPBO:1000122	obsolete_imaging software name
+DPBO:1000123	imaging software version
+DPBO:1000124	imaging software settings
+DPBO:1000125	microscope filter
+DPBO:1000126	dataset name
+DPBO:1000127	assay name
+DPBO:1000128	image processing software
+DPBO:1000129	image data analysis software
+DPBO:1000130	image processing software parameters
+DPBO:1000131	feature extraction software
+DPBO:1000133	feature extraction strategy
+DPBO:1000135	use of image
+DPBO:1000136	reagent design genome reference version
+DPBO:1000137	control specification
+DPBO:1000138	quality control comments
+DPBO:1000139	microscopy study type
+DPBO:1000140	magnification
+DPBO:1000141	image dimensionality
+DPBO:1000142	obsolete_objective
+DPBO:1000143	microscopy sample preparation
+DPBO:1000144	material fixation
+DPBO:1000145	prepared organism part
+DPBO:1000146	strain
+DPBO:1000147	container
+DPBO:1000148	jar
+DPBO:1000149	plate
+DPBO:1000150	contamination
+DPBO:1000151	axenic
+DPBO:1000152	laboratory strain
+DPBO:1000153	date
+DPBO:1000154	volume
+DPBO:1000155	culture medium volume
+DPBO:1000156	light
+DPBO:1000157	light quality
+DPBO:1000158	ratio
+DPBO:1000159	260/280 ratio
+DPBO:1000160	260/230 ratio
+DPBO:1000161	protocol type
+DPBO:1000162	obsolete_growth protocol
+DPBO:1000163	algae growth protocol
+DPBO:1000164	plant growth protocol
+DPBO:1000165	microbe growth protocol
+DPBO:1000166	bacteria growth protocol
+DPBO:1000167	yeast growth protocol
+DPBO:1000168	treatment protocol
+DPBO:1000169	sample collection protocol
+DPBO:1000170	sample processing protocol
+DPBO:1000171	extraction protocol
+DPBO:1000172	DNA extraction protocol
+DPBO:1000173	RNA extraction protocol
+DPBO:1000174	protein extraction protocol
+DPBO:1000175	metabolite extraction protocol
+DPBO:1000176	assay pre-processing protocol
+DPBO:1000177	assay protocol
+DPBO:1000178	data processing protocol
+DPBO:1000179	data filtering protocol
+DPBO:1000180	data transformation protocol
+DPBO:1000181	data extraction protocol
+DPBO:1000182	replicate group
+DPBO:1000183	biological replicate group
+DPBO:1000184	technical replicate group
+DPBO:1000185	incubation time
+DPBO:1000186	Zeiss Axiovert
+DPBO:1000187	Olympus SZX7 (Bino)
+DPBO:1000188	Zeiss AxioCam MRc5
+DPBO:1000189	01
+DPBO:1000190	01
+DPBO:1000191	DIC
+DPBO:1000192	09
+DPBO:1000193	10
+DPBO:1000194	15
+DPBO:1000195	Zeiss ZEN 3.5 (blue edition)
+DPBO:1000196	Thermo Scientific Menzel slides
+DPBO:1000197	VWR frosted edges
+DPBO:1000198	Roth SuperFrost® white
+DPBO:1000199	Menzel
+DPBO:1000200	Roth
+DPBO:1000201	VWR
+DPBO:1000202	0.8x
+DPBO:1000203	1x
+DPBO:1000204	1.25x
+DPBO:1000205	1.6x
+DPBO:1000206	2x
+DPBO:1000207	2.5x
+DPBO:1000208	3.2x
+DPBO:1000209	4x
+DPBO:1000210	5x
+DPBO:1000211	5.6x
+DPBO:1000212	Plan-Neofluar 5x/0.15
+DPBO:1000213	Plan-Neofluar 10x/0.3
+DPBO:1000214	Plan-Neofluar 20x/0.50 Ph2
+DPBO:1000215	Plan-Neofluar 40x/0.75
+DPBO:1000216	Plan-Neofluar 63x/1.25 Oil
+DPBO:1000217	Plan-Neofluar 100x/1.30 Oil
+DPBO:1000218	Achroplan 5x/012
+DPBO:1000219	Achroplan 10x/0.25 Ph1
+DPBO:1000220	Achroplan 20x/0.40
+DPBO:1000221	Achroplan 40x/0.60 korr Ph2
+DPBO:1000222	Achroplan 63x/0.75 korr Ph2
+DPBO:1000223	Knop medium
+DPBO:1000224	phenotyping
+DPBO:1000225	Zeiss Axioplan 2
+EFO:0000434	ecotype
+EFO:0000513	genotype
+EFO:0000635	organism part
+EFO:0000724	timepoint
+EFO:0002692	ChIP-seq
+EFO:0003748	MRE-seq
+EFO:0003749	MeDIP-seq
+EFO:0003750	MBD-seq
+EFO:0003751	MNase-seq
+EFO:0003753	Bisulfite-seq
+EFO:0003789	growth protocol
+EFO:0004428	FAIRE-seq
+EFO:0005136	cultivar
+EFO:0005310	RIP-seq
+EFO:0007045	ATAC-seq
+EFO:0007555	high content screening stage
+EFO:0007693	Hi-C
+EFO:0008684	Chia-PET
+EFO:0008896	RNA-Seq
+EFO:0008950	ssRNA-seq
+EFO:0008973	TN-Seq
+ERO:0001788	image processing technique
+GENEPIO:0000076	read length
+GENEPIO:0000083	adapter sequence
+GENEPIO:0000085	library preparation kit
+GENEPIO:0000149	library preparation kit version
+GENEPIO:0001153	sample collected by
+GENEPIO:0001174	sample collection date
+GENEPIO:0001965	library source
+NCIT:C126370	Cover Slip
+NCIT:C175898	Imaging Software Name
+NCIT:C181919	Objective Lens
+NCIT:C43531	developmental stage
+NCIT:C45293	Species
+NCIT:C53471	isolate
+OBI:0000079	culture medium
+OBI:0000094	material processing
+OBI:0001048	digital camera
+OBI:0100026	organism
+OBI:0400169	microscope
+OBI:0400170	microscope slide
+OME:Objective	Objective
+ObsoleteClass	Obsolete Class
+PRIDE:0000307	Quantification method
+PRIDE:0000308	Gel-based quantification method
+PRIDE:0000309	Gel-free quantification method
+PRIDE:0000310	Isotope labeling
+PRIDE:0000311	Selected Reaction Monitoring
+PRIDE:0000312	Label free
+PRIDE:0000313	iTRAQ
+PRIDE:0000314	TMT
+PRIDE:0000315	SILAC
+PRIDE:0000316	MS1 based isotope labeling
+PRIDE:0000317	MS2 based isotope labeling
+PRIDE:0000318	18O
+PRIDE:0000319	ICAT
+PRIDE:0000320	AQUA
+PRIDE:0000321	ICPL
+PRIDE:0000322	emPAI
+PRIDE:0000323	TIC
+PRIDE:0000425	MS1 intensity based label-free quantification method
+PRIDE:0000435	Peptide counting
+PRIDE:0000436	Spectrum counting
+PRIDE:0000437	Protein Abundance Index - PAI
+PRIDE:0000438	Spectrum count/molecular weight
+PRIDE:0000439	Spectral Abundance Factor - SAF
+PRIDE:0000440	Normalized Spectral Abundance Factor - NSAF
+PRIDE:0000441	APEX - Absolute Protein Expression
+PRIDE:0000463	Parallel Reaction Monitoring (PRM)
+PRIDE:0000513	Dimethyl Labeling
+PSO:0000013	plant disease
+SCTID:71661000	cover slip preparation (procedure)
+SIO:000318	longitude
+SIO:000319	latitude
+SIO:001051	data analysis
+UO:0000000	unit
+UO:0000048	acceleration unit
+data:2795	ORF identifier

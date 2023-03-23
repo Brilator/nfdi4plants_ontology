@@ -1,0 +1,287 @@
+NFDI4PSO:0000001	growth plot design
+NFDI4PSO:0000002	Read Alignment Software
+NFDI4PSO:0000003	Read Alignment Software Version
+NFDI4PSO:0000004	Read Alignment Software Parameters
+NFDI4PSO:0000005	Humidity Day
+NFDI4PSO:0000006	Humidity Night
+NFDI4PSO:0000007	Temperature Day
+NFDI4PSO:0000008	Temperature Night
+NFDI4PSO:0000009	Sample Collection Method
+NFDI4PSO:0000010	Metabolism quenching method
+NFDI4PSO:0000011	Sample storage
+NFDI4PSO:0000012	Bio entity
+NFDI4PSO:0000013	Biosource amount
+NFDI4PSO:0000014	Extraction Kit
+NFDI4PSO:0000015	Library layout
+NFDI4PSO:0000016	Library RNA amount
+NFDI4PSO:0000017	Base-calling Software
+NFDI4PSO:0000018	Base-calling Software Version
+NFDI4PSO:0000019	Base-calling Software Parameters
+NFDI4PSO:0000020	Library strand
+NFDI4PSO:0000021	Raw data file format
+NFDI4PSO:0000022	Raw data file checksum
+NFDI4PSO:0000023	Data filtering software
+NFDI4PSO:0000024	Data filtering software version
+NFDI4PSO:0000025	Data filtering Software Parameters
+NFDI4PSO:0000026	Genome reference sequence
+NFDI4PSO:0000027	Processed data file format
+NFDI4PSO:0000028	Processed data file name
+NFDI4PSO:0000029	Processed data file checksum
+NFDI4PSO:0000030	Organism
+NFDI4PSO:0000031	Genotype
+NFDI4PSO:0000032	Organism part
+NFDI4PSO:0000033	Plant age
+NFDI4PSO:0000034	Time point
+NFDI4PSO:0000035	Library strategy
+NFDI4PSO:0000036	Library Selection
+NFDI4PSO:0000037	Library preparation kit
+NFDI4PSO:0000038	Library preparation kit version
+NFDI4PSO:0000039	Adapter sequence
+NFDI4PSO:0000040	Next generation sequencing instrument model
+NFDI4PSO:0000041	Growth day length
+NFDI4PSO:0000042	Biological replicate
+NFDI4PSO:0000043	MS sample post-extraction
+NFDI4PSO:0000044	MS sample resuspension
+NFDI4PSO:0000045	MS sample type
+NFDI4PSO:0000046	Chromatography instrument model
+NFDI4PSO:0000047	Chromatography autosampler model
+NFDI4PSO:0000048	Chromatography column model
+NFDI4PSO:0000049	Chromatography guard column model
+NFDI4PSO:0000050	Extraction buffer
+NFDI4PSO:0000051	Extraction buffer volume
+NFDI4PSO:0000052	MS derivatization
+NFDI4PSO:0000053	Chromatography column type
+NFDI4PSO:0000054	Extraction method
+NFDI4PSO:0000055	Library source
+NFDI4PSO:0000056	Library DNA amount
+NFDI4PSO:0000057	Next generation sequencing platform
+NFDI4PSO:0000058	Read length
+NFDI4PSO:0000059	Sequence assembly method
+NFDI4PSO:0000060	Sequence assembly algorithm version
+NFDI4PSO:0000061	Genome status
+NFDI4PSO:0000062	RNA quality check
+NFDI4PSO:0000063	BioProject Accession Number
+NFDI4PSO:0000064	Sample type
+NFDI4PSO:0000065	Isolate
+NFDI4PSO:0000066	Cultivar
+NFDI4PSO:0000067	Ecotype
+NFDI4PSO:0000068	Cell line
+NFDI4PSO:0000069	Cell type
+NFDI4PSO:0000070	Developmental Stage
+NFDI4PSO:0000071	Plant disease
+NFDI4PSO:0000072	Plant disease stage
+NFDI4PSO:0000073	Phenotype
+NFDI4PSO:0000074	Geogaphic Area
+NFDI4PSO:0000075	Sample Collection Date
+NFDI4PSO:0000076	Sample Collected By
+NFDI4PSO:0000077	Metabolite Assignment File
+NFDI4PSO:0000078	BioSample Accession Number
+NFDI4PSO:0000079	label
+NFDI4PSO:0000080	mobile phase
+NFDI4PSO:0000081	Chromatography gradient
+NFDI4PSO:0000082	rRNA depletion
+NFDI4PSO:0002000	alias
+NFDI4PSO:0002001	study_abstract
+NFDI4PSO:0002002	title
+NFDI4PSO:0002003	latitude
+NFDI4PSO:0002004	longitude
+NFDI4PSO:0002005	project name
+NFDI4PSO:0002006	sequencing method
+NFDI4PSO:0002007	investigation type
+NFDI4PSO:0002008	environment (feature)
+NFDI4PSO:0002009	environment (material)
+NFDI4PSO:0002010	plant-associated environmental package
+NFDI4PSO:0010000	ENA
+NFDI4PSO:0010002	BIOSAMPLE
+NFDI4PSO:0010004	BIOPROJECT
+NFDI4PSO:0010005	GENBANK
+NFDI4PSO:0010006	SRA
+NFDI4PSO:0010007	PGP
+NFDI4PSO:0010008	BIA
+NFDI4PSO:0010009	Biosource material state
+NFDI4PSO:0010010	Fresh material
+NFDI4PSO:0010011	Dry material
+NFDI4PSO:0010012	Internal standard
+NFDI4PSO:0010013	Sample volume
+NFDI4PSO:0010014	Chromatography injection volume
+NFDI4PSO:0010015	Chromatography injection mode
+NFDI4PSO:1000000	_NotUse_TemplateTerm
+NFDI4PSO:1000003	RNA-Seq
+NFDI4PSO:1000004	miRNA-Seq
+NFDI4PSO:1000005	ncRNA-Seq
+NFDI4PSO:1000006	RNA-Seq (size fractionation)
+NFDI4PSO:1000007	RNA-Seq (CAGE)
+NFDI4PSO:1000008	RNA-Seq (RACE)
+NFDI4PSO:1000009	ssRNA-seq
+NFDI4PSO:1000010	ChIP-Seq
+NFDI4PSO:1000011	MNase-Seq
+NFDI4PSO:1000012	MBD-Seq
+NFDI4PSO:1000013	MRE-Seq
+NFDI4PSO:1000014	Bisulfite-Seq
+NFDI4PSO:1000015	Bisulfite-Seq (reduced representation)
+NFDI4PSO:1000016	MeDIP-Seq
+NFDI4PSO:1000017	DNase-Hypersensitivity
+NFDI4PSO:1000018	Tn-Seq
+NFDI4PSO:1000019	FAIRE-seq
+NFDI4PSO:1000020	SELEX
+NFDI4PSO:1000021	RIP-Seq
+NFDI4PSO:1000022	ATAC-seq
+NFDI4PSO:1000023	ChIA-PET
+NFDI4PSO:1000024	Hi-C
+NFDI4PSO:1000025	OTHER
+NFDI4PSO:1000026	fastq
+NFDI4PSO:1000027	bam
+NFDI4PSO:1000028	Illumina_native_qseq
+NFDI4PSO:1000029	Illumina_native
+NFDI4PSO:1000030	SOLiD_native_csfasta
+NFDI4PSO:1000031	SOLiD_native_qual
+NFDI4PSO:1000032	sff
+NFDI4PSO:1000033	454_native_seq
+NFDI4PSO:1000034	454_native_qual
+NFDI4PSO:1000035	Helicos_native
+NFDI4PSO:1000036	srf
+NFDI4PSO:1000037	PacBio_HDF5
+NFDI4PSO:1000038	Illumina Genome Analyzer IIx
+NFDI4PSO:1000039	Illumina HiSeq 1000
+NFDI4PSO:1000040	Illumina HiSeq 1500
+NFDI4PSO:1000041	Illumina HiSeq 2000
+NFDI4PSO:1000042	Illumina HiSeq 2500
+NFDI4PSO:1000043	Illumina HiSeq 3000
+NFDI4PSO:1000044	Illumina HiSeq 4000
+NFDI4PSO:1000045	Illumina NextSeq 500
+NFDI4PSO:1000046	Illumina NextSeq 550
+NFDI4PSO:1000047	Illumina HiSeq X Ten
+NFDI4PSO:1000048	Illumina HiSeq X Five
+NFDI4PSO:1000049	Illumina NovaSeq 6000
+NFDI4PSO:1000050	Illumina MiSeq
+NFDI4PSO:1000051	Illumina HiScanSQ
+NFDI4PSO:1000052	Illumina MiniSeq
+NFDI4PSO:1000053	Illumina iSeq 100
+NFDI4PSO:1000054	BGISEQ-500
+NFDI4PSO:1000055	DNBSEQ-G400
+NFDI4PSO:1000056	DNBSEQ-T7
+NFDI4PSO:1000057	DNBSEQ-G50
+NFDI4PSO:1000058	Ion Torrent PGM
+NFDI4PSO:1000059	Ion Torrent Proton
+NFDI4PSO:1000060	Ion Torrent S5
+NFDI4PSO:1000061	Ion Torrent S5 XL
+NFDI4PSO:1000062	PacBio RS
+NFDI4PSO:1000063	PacBio RS II
+NFDI4PSO:1000064	Sequel
+NFDI4PSO:1000065	Sequel II
+NFDI4PSO:1000066	AB SOLiD System 2.0
+NFDI4PSO:1000067	AB SOLiD System 3.0
+NFDI4PSO:1000068	AB SOLiD 3 Plus System
+NFDI4PSO:1000069	AB SOLiD 4 System
+NFDI4PSO:1000070	AB SOLiD 4hq System
+NFDI4PSO:1000071	AB SOLiD PI System
+NFDI4PSO:1000072	AB 5500 Genetic Analyzer
+NFDI4PSO:1000073	AB 5500xl Genetic Analyzer
+NFDI4PSO:1000074	AB 5500xl-W Genetic Analysis System
+NFDI4PSO:1000075	454 GS
+NFDI4PSO:1000076	454 GS 20
+NFDI4PSO:1000077	454 GS FLX
+NFDI4PSO:1000078	454 GS FLX+
+NFDI4PSO:1000079	454 GS Junior
+NFDI4PSO:1000080	454 GS FLX Titanium
+NFDI4PSO:1000081	Complete Genomics
+NFDI4PSO:1000082	Helicos HeliScope
+NFDI4PSO:1000083	GridION
+NFDI4PSO:1000084	MinION
+NFDI4PSO:1000085	PromethION
+NFDI4PSO:1000086	single
+NFDI4PSO:1000087	paired-end
+NFDI4PSO:1000088	total RNA
+NFDI4PSO:1000089	polyA RNA
+NFDI4PSO:1000090	cytoplasmic RNA
+NFDI4PSO:1000091	nuclear RNA
+NFDI4PSO:1000092	genomic DNA
+NFDI4PSO:1000093	protein
+NFDI4PSO:1000094	other
+NFDI4PSO:1000095	Endpoint Repository
+NFDI4PSO:1000096	GEO
+NFDI4PSO:1000097	METABOLIGHTS
+NFDI4PSO:1000098	PRIDE
+NFDI4PSO:1000099	GEO_RNASEQ
+NFDI4PSO:1000100	GEO_MICROARRAY
+NFDI4PSO:1000101	Well
+NFDI4PSO:1000102	Well Number
+NFDI4PSO:1000103	siRNA identifier
+NFDI4PSO:1000104	Compound name
+NFDI4PSO:1000105	Compound identifier
+NFDI4PSO:1000106	Compound class
+NFDI4PSO:1000107	ORF identifier
+NFDI4PSO:1000108	Gene Identifier
+NFDI4PSO:1000109	Sense Sequence
+NFDI4PSO:1000110	Antisense Sequence
+NFDI4PSO:1000111	Control Type
+NFDI4PSO:1000112	Quality Control
+NFDI4PSO:1000113	channel
+NFDI4PSO:1000114	Screen Technology Type
+NFDI4PSO:1000115	high content screening stage
+NFDI4PSO:1000116	Library Version
+NFDI4PSO:1000117	Antibody
+NFDI4PSO:1000118	Cover Slip
+NFDI4PSO:1000119	Cover slip preparation (procedure)
+NFDI4PSO:1000120	Image file path
+NFDI4PSO:1000121	target compartment
+NFDI4PSO:1000122	Imaging Software Name
+NFDI4PSO:1000123	Imaging Software Version
+NFDI4PSO:1000124	Imaging Software Settings
+NFDI4PSO:1000125	Microscope filter
+NFDI4PSO:1000126	Dataset Name
+NFDI4PSO:1000127	Assay Name
+NFDI4PSO:1000128	image processing software
+NFDI4PSO:1000129	image data analysis software
+NFDI4PSO:1000130	image processing software parameters
+NFDI4PSO:1000131	feature extraction software
+NFDI4PSO:1000132	data analysis
+NFDI4PSO:1000133	feature extraction strategy
+NFDI4PSO:1000134	image processing technique
+NFDI4PSO:1000135	use of image
+NFDI4PSO:1000136	reagent design genome reference version
+NFDI4PSO:1000137	Control specification
+NFDI4PSO:1000138	Quality Control Comments
+NFDI4PSO:1000139	Microscopy study type
+NFDI4PSO:1000140	Magnification
+NFDI4PSO:1000141	Image Dimensionality
+NFDI4PSO:1000142	Objective
+NFDI4PSO:1000143	microscopy sample preparation
+NFDI4PSO:1000144	material fixation
+NFDI4PSO:1000145	prepared organism part
+NFDI4PSO:1000146	Strain
+NFDI4PSO:1000147	Container
+NFDI4PSO:1000148	Jar
+NFDI4PSO:1000149	Plate
+NFDI4PSO:1000150	Contamination
+NFDI4PSO:1000151	Axenic
+NFDI4PSO:1000152	Laboratory strain
+NFDI4PSO:1000153	Date
+NFDI4PSO:1000154	Volume
+NFDI4PSO:1000155	Culture medium volume
+NFDI4PSO:1000156	Light
+NFDI4PSO:1000157	Light quality
+NFDI4PSO:1000158	Ratio
+NFDI4PSO:1000159	260/280 ratio
+NFDI4PSO:1000160	260/230 ratio
+NFDI4PSO:1000161	protocol type
+NFDI4PSO:1000162	growth protocol
+NFDI4PSO:1000163	algae growth protocol
+NFDI4PSO:1000164	plant growth protocol
+NFDI4PSO:1000165	microbe growth protocol
+NFDI4PSO:1000166	bacteria growth protocol
+NFDI4PSO:1000167	yeast growth protocol
+NFDI4PSO:1000168	treatment protocol
+NFDI4PSO:1000169	sample collection protocol
+NFDI4PSO:1000170	sample processing protocol
+NFDI4PSO:1000171	extraction protocol
+NFDI4PSO:1000172	DNA extraction protocol
+NFDI4PSO:1000173	RNA extraction protocol
+NFDI4PSO:1000174	protein extraction protocol
+NFDI4PSO:1000175	metabolite extraction protocol
+NFDI4PSO:1000176	assay pre-processing protocol
+NFDI4PSO:1000177	assay protocol
+NFDI4PSO:1000178	data processing protocol
+NFDI4PSO:1000179	data filtering protocol
+NFDI4PSO:1000180	data transformation protocol
+NFDI4PSO:1000181	data extraction protocol
